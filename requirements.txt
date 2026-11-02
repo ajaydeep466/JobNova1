@@ -1,0 +1,11 @@
+flask
+flask-sqlalchemy
+sqlalchemy
+authlib
+requests
+beautifulsoup4
+pdfplumber
+gunicorn
+apscheduler
+psycopg[binary]
+Pillow
